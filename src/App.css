@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  border-radius: 3rem;
+  max-width: 600px;
+  max-height: 250px;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+#author {
+  text-align: right;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-right: 30px;
+  font-weight: bold;
+}
+
+.actionButtons {
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+#text {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#icon {
+  font-size: 2.2rem;
+}
+
+a {
+  color: #888;
+}
